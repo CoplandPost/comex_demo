@@ -1,4 +1,4 @@
-# This is an application for managing a Foreign Trade Business.
+# This is an application for mnaging a Foreign Trade Business.
 <div align="center">
     <img src='./public/logo.png'></img>
 </div>
